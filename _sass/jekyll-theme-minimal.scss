@@ -170,6 +170,14 @@ ul.downloads {
   background-color:#f0f0f0;
 }
 
+.downloads.two li {
+  width: 134px;
+}
+
+.downloads.two li + li {
+  border-right: none;
+}
+
 strong {
   color:#222;
   font-weight:700;

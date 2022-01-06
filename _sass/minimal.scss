@@ -2,11 +2,3 @@
 //     @import "{{ site.theme }}";
 // Then using this theme with jekyll-remote-theme will work fine.
 @import "jekyll-theme-minimal";
-
-.downloads.two li {
-    width: 134px;
-}
-
-.downloads.two li + li {
-    border-right: none;
-}
